@@ -1,7 +1,0 @@
-D:\a自學紀錄\作業\ASP.NET MVC5 網站開發美學\MVC\01\CH02\solution1\bin\Debug\solution1.exe.config
-D:\a自學紀錄\作業\ASP.NET MVC5 網站開發美學\MVC\01\CH02\solution1\bin\Debug\solution1.exe
-D:\a自學紀錄\作業\ASP.NET MVC5 網站開發美學\MVC\01\CH02\solution1\bin\Debug\solution1.pdb
-D:\a自學紀錄\作業\ASP.NET MVC5 網站開發美學\MVC\01\CH02\solution1\obj\Debug\solution1.csprojAssemblyReference.cache
-D:\a自學紀錄\作業\ASP.NET MVC5 網站開發美學\MVC\01\CH02\solution1\obj\Debug\solution1.csproj.CoreCompileInputs.cache
-D:\a自學紀錄\作業\ASP.NET MVC5 網站開發美學\MVC\01\CH02\solution1\obj\Debug\solution1.exe
-D:\a自學紀錄\作業\ASP.NET MVC5 網站開發美學\MVC\01\CH02\solution1\obj\Debug\solution1.pdb

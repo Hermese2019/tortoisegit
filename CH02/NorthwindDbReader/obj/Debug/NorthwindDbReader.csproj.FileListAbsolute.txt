@@ -1,7 +1,0 @@
-D:\a自學紀錄\作業\ASP.NET MVC5 網站開發美學\MVC\01\CH02\NorthwindDbReader\bin\Debug\NorthwindDbReader.exe.config
-D:\a自學紀錄\作業\ASP.NET MVC5 網站開發美學\MVC\01\CH02\NorthwindDbReader\bin\Debug\NorthwindDbReader.exe
-D:\a自學紀錄\作業\ASP.NET MVC5 網站開發美學\MVC\01\CH02\NorthwindDbReader\bin\Debug\NorthwindDbReader.pdb
-D:\a自學紀錄\作業\ASP.NET MVC5 網站開發美學\MVC\01\CH02\NorthwindDbReader\obj\Debug\NorthwindDbReader.csprojAssemblyReference.cache
-D:\a自學紀錄\作業\ASP.NET MVC5 網站開發美學\MVC\01\CH02\NorthwindDbReader\obj\Debug\NorthwindDbReader.csproj.CoreCompileInputs.cache
-D:\a自學紀錄\作業\ASP.NET MVC5 網站開發美學\MVC\01\CH02\NorthwindDbReader\obj\Debug\NorthwindDbReader.exe
-D:\a自學紀錄\作業\ASP.NET MVC5 網站開發美學\MVC\01\CH02\NorthwindDbReader\obj\Debug\NorthwindDbReader.pdb
